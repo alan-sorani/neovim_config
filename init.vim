@@ -5,7 +5,7 @@
 :set smarttab
 :set softtabstop=4
 :set mouse=a
-:set colorcolumn = 80
+:set colorcolumn=80
 set noswapfile
 
 
